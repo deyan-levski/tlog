@@ -1,4 +1,4 @@
 tlog
 ====
 
-A simple shell based time logging script.
+An ultra minimalistic shell based time logging script.
